@@ -20,5 +20,3 @@ This map was created to help visualize and identify potential environmental haza
 + Kentucky Division of Geographic Information, Adult Prison Locations. https://ky.app.box.com/v/kymartian-prisons
 
 + Federal Bureau of Prisons, Federal Prisons in Kentucky. https://www.bop.gov/locations/list.jsp  
-
-+ Markdown formatting, such as including headings, hyperlinks, and lists, to create a formal project presentation (5 points)
