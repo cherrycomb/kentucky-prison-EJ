@@ -1,7 +1,7 @@
 # Prisons and Environmental Hazards in Kentucky
 ### RL Martens
 
-This map was created to help visualize and identify potential environmental hazards affecting incarcerated people in the commonwealth of Kentucky. This map was created using MapBox Studio.
+This map was created to help visualize and identify potential environmental hazards affecting incarcerated people in the commonwealth of Kentucky. The map was created using MapBox Studio.
 
 #### Data Sources:
 
