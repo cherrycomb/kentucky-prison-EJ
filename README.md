@@ -1,7 +1,7 @@
 # Prisons and Environmental Hazards in Kentucky
 ### RL Martens
 
-This map was created to help visualize and identify potential environmental hazards affecting incarcerated people in the commonwealth of Kentucky. The black dots on the map represent environmental hazards taken from EPA EnviroAtlas and EarthJustice datasets. Zoom in on the points and you'll be able to see exactly what type of hazard each dot represents. The map was created using MapBox Studio and QGIS-LTR.
+<a href="https://cherrycomb.github.io/kentucky-prison-EJ/" target="_blank">This map</a> was created to help visualize and identify potential environmental hazards affecting incarcerated people in the commonwealth of Kentucky. The black dots on the map represent environmental hazards taken from EPA EnviroAtlas and EarthJustice datasets. Zoom in on the points and you'll be able to see exactly what type of hazard each dot represents. The map was created using MapBox Studio and QGIS-LTR.
 
 #### Mapping Process
 
